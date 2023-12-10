@@ -857,6 +857,10 @@ a.content__contacts-info::after {
     width: 40px;
     height: 40px;
   }
+
+  .slider__buttons {
+    width: 90vw;
+  }
 }
 
 @media (width:768px) {
